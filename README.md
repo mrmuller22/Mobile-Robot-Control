@@ -25,3 +25,6 @@ The periphals utlized were:
 **Libraries/Frameworks:** N/A
 
 ***Environment:** Mobile
+
+Video of Working Project: https://github.com/user-attachments/assets/2a1e858d-e29c-43e3-b269-603a682a2ecb
+
