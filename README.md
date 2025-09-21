@@ -12,7 +12,7 @@ For this project, I was tasked of controlling a robot arm wirlessly. I was given
 
 The features this project utlized an ESP32 to run the program on. I utlized C++ to program all the board. What makes this program unique is the Android application coded through MIT App Inventor. This program allowed us to create an Android application that would transmit different integers to the ESP32 on what button was being pressed. The esp32 would then run the received integer state. 
 
-The periphals utlized were:
+The peripherals utlized were:
 
   * Robotic Arm
   * ESP32
